@@ -47,7 +47,7 @@ var ReactImageZoom = function (_Component) {
     }, {
         key: 'render',
         value: function render() {
-            return ReactDOM.render('div', { id: 'container' });
+            return _react.createElement('div', { id: 'container' });
         }
     }]);
 
