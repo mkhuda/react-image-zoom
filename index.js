@@ -8,6 +8,8 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 var _react = require('react');
 
+var ReactDOM = require('react-dom');
+
 var _react2 = _interopRequireDefault(_react);
 
 var _jsImageZoom = require('js-image-zoom');
